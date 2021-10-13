@@ -128,9 +128,12 @@
   </data>
   <data name="AnnotateDeclarationDialog_ArgumentTypeHeader" xml:space="preserve">
     <value>Type</value>
+    
+    <comment>@Invariant</comment>
   </data>
   <data name="AnnotateDeclarationDialog_ArgumentValueHeader" xml:space="preserve">
     <value>Value</value>
+    
   </data>
   <data name="AnnotateDeclarationDialog_Caption" xml:space="preserve">
     <value>Rubberduck - Annotate Declaration</value>
